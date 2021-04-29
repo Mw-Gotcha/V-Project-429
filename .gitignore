@@ -1,0 +1,17 @@
+*.vpk
+*.vtex_c
+*.vmat_c
+*.vmdl_c
+*.vagrp_c
+*.vmesh_c
+*.vseq_c
+*.vanim_c
+*.vphys_c
+*.vpcf_c
+*.vsnd_c
+*.vmorf_c
+*.vxml_c
+*.vjs_c
+*.vsndevts_c
+*.vcss_c
+*.vpdi_c
